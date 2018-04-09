@@ -1,2 +1,2 @@
 # vectorized-svm
-Python implementation of vectorized SVM with BGD, SGD, and MGD
+Python implementation of vectorized Surport Vector Machine with Batch Gradient Descent, Stochastic Gradient Descent, and Mini-batch Gradient Descent. 
